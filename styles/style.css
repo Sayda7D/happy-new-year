@@ -1,0 +1,14 @@
+/*main section style */
+.offer{
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+/*about Section Style */
+.about{
+    padding: 130px;
+}
