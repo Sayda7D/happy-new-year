@@ -7,6 +7,33 @@ font-size: 30px;
 font-style: normal;
 font-weight: 200;
 line-height: normal;
+width: 50%;
+        height: 120vh;
+        position: center;
+        background-image: url(../image/New\ Year\ Photo.png);
+        background-repeat: no-repeat;
+        background-size: 90%;
+        background-blend-mode: darken;
+        background-position: center;
+        transform: translate(45%, -15%);
+        top: -500%;
+        right: 100%;
+        bottom: 50%;
+        
+        
+}
+.welcome{
+  
+
+height: 120vh;
+position: center;
+background-image: url(../image/Vectorrr.png);
+background-repeat: no-repeat;
+background-size: 50%;
+background-blend-mode: darken;
+background-position: center;
+
+
 }
 /*about Section Style */
 .about{
