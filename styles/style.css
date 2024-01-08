@@ -22,7 +22,7 @@ width: 50%;
         
         
 }
-main section style 
+/*main section style */
 .Welcome{
     color: white;
 text-align: left;
@@ -44,10 +44,29 @@ background-size: 100%;
         top: -500%;
         right: 100%;
         bottom: -50%;
-
-
+       
+       
 }
-/*about Section Style */
+/*main Section Style */
+.button{
+    height: 1000vh;
+    transform: translate(100%, -50%);
+    justify-content: space-around;
+    align-items: center;
+}
+
+.anotherimage{
+    background-image: url(../image/Group\ 70.png);
+    background-repeat: no-repeat;
+    text-align: right;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    width: 75%;
+    height: 600vh;
+    transform: translate(90%, -16%);
+}
 .about{
     padding: 130px;
 }
