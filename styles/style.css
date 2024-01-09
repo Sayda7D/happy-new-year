@@ -57,7 +57,7 @@ background-size: 100%;
     font-weight: 100;
     line-height: normal;
     width: 75%;
-    height: 1400vh;
+    height: 1500vh;
     transform: translate(90%, -16%);
 }
 .about{
@@ -176,7 +176,8 @@ transform: translate(-0%, -20%);
 .row::after {
     content: "";
     display: table;
-    clear:both;
+    clear:both
+
 }
    
     
