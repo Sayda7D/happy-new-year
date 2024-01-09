@@ -57,7 +57,7 @@ background-size: 100%;
     font-weight: 100;
     line-height: normal;
     width: 75%;
-    height: 950vh;
+    height: 1400vh;
     transform: translate(90%, -16%);
 }
 .about{
@@ -97,8 +97,6 @@ line-height: normal;
 width: 105%;
 height: 20vh;
 
-background-image: url(../image/Ellipse\ 1.png)
-
 }
 .Year{
     background-color: antiquewhite;
@@ -115,6 +113,12 @@ line-height: normal;
 width: 101%;
 height: 20vh;
 transform: translate(-1%, -19%);
+
+background-image: url(../image/Ellipse\ 1.png);
+background-size: 10%;
+background-repeat: no-repeat;
+background-position: center;
+
 
 }
 /*main Section style */
@@ -139,10 +143,42 @@ background-size: 500%;
 height: 50vh;
 transform: translate(-1%, -20%);
 
+background-image: url(../image/Rectangle\ 1.png);
+background-size: 30%;
+background-repeat: no-repeat;
+background-position: right;
+height: 50vh;
+transform: translate(-0%, -20%);
 
 }
-.saleimage{
-   
+/*main Section Style*/
+.percent{
+    color: #F00;
+    text-align: left;
+    background-color: antiquewhite;
+
+    background-image: url(../image/Group\ 44.png);
+    background-size: 100%;
     
 }
+.portfolio{
+    color: ;
+}
+
+* {
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 33.33;
+    padding: 5px;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear:both;
+}
+   
+    
+
 
