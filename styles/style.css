@@ -97,6 +97,7 @@ line-height: normal;
 width: 105%;
 height: 20vh;
 
+background-image: url(../image/Ellipse\ 1.png)
 
 }
 .Year{
@@ -116,3 +117,32 @@ height: 20vh;
 transform: translate(-1%, -19%);
 
 }
+/*main Section style */
+
+.moreimage{
+
+
+}
+.Sale{
+    color: red;
+text-align: center;
+text-emphasis-position: center;
+font-family: initial;
+font-size: 35px;
+font-style: normal;
+font-weight: 10;
+line-height: normal;
+width: 105%;
+background-color: antiquewhite;
+background-position: center;
+background-size: 500%;
+height: 50vh;
+transform: translate(-1%, -20%);
+
+
+}
+.saleimage{
+   
+    
+}
+
