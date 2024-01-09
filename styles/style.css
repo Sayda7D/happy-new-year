@@ -48,13 +48,6 @@ background-size: 100%;
        
 }
 /*main Section Style */
-.button{
-    height: 1000vh;
-    transform: translate(100%, -50%);
-    justify-content: space-around;
-    align-items: center;
-}
-
 .anotherimage{
     background-image: url(../image/Group\ 70.png);
     background-repeat: no-repeat;
@@ -64,9 +57,23 @@ background-size: 100%;
     font-weight: 100;
     line-height: normal;
     width: 75%;
-    height: 600vh;
+    height: 750vh;
     transform: translate(90%, -16%);
 }
 .about{
     padding: 130px;
+    
+}
+.details{
+    color: red;
+text-align: center;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+width: 100%;
+
+
+
 }
