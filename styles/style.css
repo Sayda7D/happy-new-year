@@ -57,7 +57,7 @@ background-size: 100%;
     font-weight: 100;
     line-height: normal;
     width: 75%;
-    height: 750vh;
+    height: 950vh;
     transform: translate(90%, -16%);
 }
 .about{
@@ -65,12 +65,21 @@ background-size: 100%;
     
 }
 .details{
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: 500%;
+    transform: translate(-1%, -60%);
+    width: 40%;
+    height: 40vh;
+        top: 80%;
+        right: 100%;
+        bottom: -50%;
     color: red;
 text-align: center;
 font-family: Inter;
-font-size: 40px;
+font-size: 35px;
 font-style: normal;
-font-weight: 300;
+font-weight: 500;
 line-height: normal;
 width: 100%;
 
